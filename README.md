@@ -31,7 +31,7 @@ Bu oyunda, karışık kartlar arasında eşleşen çiftleri bulmaya çalışacak
 
 ## 📷 Ekran Görüntüleri
 
-![Kart Bulma Oyunu](screenshot.png)
+![Kart Bulma Oyunu](images/screenshot.png)
 
 ## 🎯 Hedefler
 
