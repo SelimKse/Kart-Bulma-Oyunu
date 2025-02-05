@@ -34,7 +34,6 @@ Bu oyunda, karışık kartlar arasında eşleşen çiftleri bulmaya çalışacak
 ## 🎯 Hedefler
 
 - Kartları eşleştir ve en hızlı şekilde tamamla!
-- 🏅 Yüksek skorlara ulaşmak için rekabet et!
 
 ## 💬 Geri Bildirim
 
