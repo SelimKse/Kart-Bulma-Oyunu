@@ -26,8 +26,6 @@ Bu oyunda, karışık kartlar arasında eşleşen çiftleri bulmaya çalışacak
 
 - 🃏 Farklı zorluk seviyeleri
 - 🧩 Renkli ve dikkat çekici kartlar
-- ⏱️ Zamanlayıcı ile hızınızı test edin
-- 🏆 En iyi skorları kaydedin!
 
 ## 📷 Ekran Görüntüleri
 
